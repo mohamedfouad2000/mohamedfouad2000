@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br/>I'm <b>Mohamed Fouad</b>, Flutter Developer from <b>Egypt 🇪🇬</b>.</p>
+<p>Welcome to my page! <br/>I'm <b>Mohamed Fouad (Fouush)</b>, Flutter Developer from <b>Egypt 🇪🇬</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -52,13 +52,19 @@
   </td>
 </tr>
 <tr>
-  <td><b>Shate2</b></td>
-  <td>User / Owner</td>
+  <td><b>Shate2 User</b></td>
+  <td>Android / iOS</td>
   <td>
-    <a href="https://chrome-stats.com/d/com.user.shate2User" target="_blank">User Android</a> |
-    <a href="https://apps.apple.com/bh/app/shate2/id6520390148" target="_blank">User iOS</a> |
-    <a href="https://chrome-stats.com/d/com.owner.shate2Owner" target="_blank">Owner Android</a> |
-    <a href="https://apps.apple.com/bh/app/shate2-owner/id6520392479" target="_blank">Owner iOS</a>
+    <a href="https://chrome-stats.com/d/com.user.shate2User" target="_blank">Android</a> |
+    <a href="https://apps.apple.com/bh/app/shate2/id6520390148" target="_blank">iOS</a>
+  </td>
+</tr>
+<tr>
+  <td><b>Shate2 Owner</b></td>
+  <td>Android / iOS</td>
+  <td>
+    <a href="https://chrome-stats.com/d/com.owner.shate2Owner" target="_blank">Android</a> |
+    <a href="https://apps.apple.com/bh/app/shate2-owner/id6520392479" target="_blank">iOS</a>
   </td>
 </tr>
 <tr>
