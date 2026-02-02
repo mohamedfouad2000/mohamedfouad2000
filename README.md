@@ -51,9 +51,9 @@
   <td><b>Shate2</b></td>
   <td>User / Owner</td>
   <td>
-    <a href="https://chrome-stats.com/d/com.user.shate2User" target="_blank">User Chrome</a> |
+    <a href="https://chrome-stats.com/d/com.user.shate2User" target="_blank">User</a> |
     <a href="https://apps.apple.com/bh/app/shate2/id6520390148" target="_blank">User iOS</a> |
-    <a href="https://chrome-stats.com/d/com.owner.shate2Owner" target="_blank">Owner Chrome</a> |
+    <a href="https://chrome-stats.com/d/com.owner.shate2Owner" target="_blank">Owner</a> |
     <a href="https://apps.apple.com/bh/app/shate2-owner/id6520392479" target="_blank">Owner iOS</a>
   </td>
 </tr>
