@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br/>I'm <b>Mohamed Fouad (Fouush)</b>, Flutter Developer from <b>Egypt 🇪🇬</b>.</p>
+<p>Welcome to my page! <br/>I'm <b>Mohamed Fouad</b>, Flutter Developer from <b>Egypt 🇪🇬</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -85,9 +85,6 @@
   </a>
   <a href="https://www.facebook.com/FoUuSsH158247" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/201061696047" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://flutter-architect-pro--meedoofouad.replit.app/#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Website-FF69B4?style=for-the-badge"/>
