@@ -18,6 +18,10 @@
   <img alt="Google Maps" src="https://img.shields.io/badge/-Google_Maps-32CD32?style=flat-square" />
   <img alt="Testing" src="https://img.shields.io/badge/-Testing-DAA520?style=flat-square" />
   <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-00CED1?style=flat-square" />
+  <img alt="UI/UX" src="https://img.shields.io/badge/-UI/UX-FF8C00?style=flat-square" />
+  <img alt="Performance" src="https://img.shields.io/badge/-Performance_Optimization-1E90FF?style=flat-square" />
+  <img alt="Debugging" src="https://img.shields.io/badge/-Debugging-8B008B?style=flat-square" />
+  <img alt="Algorithms" src="https://img.shields.io/badge/-Data_Structures_&_Algorithms-228B22?style=flat-square" />
 </p>
 
 <h3>🚀 Featured Projects</h3>
@@ -51,9 +55,9 @@
   <td><b>Shate2</b></td>
   <td>User / Owner</td>
   <td>
-    <a href="https://chrome-stats.com/d/com.user.shate2User" target="_blank">User</a> |
+    <a href="https://chrome-stats.com/d/com.user.shate2User" target="_blank">User Android</a> |
     <a href="https://apps.apple.com/bh/app/shate2/id6520390148" target="_blank">User iOS</a> |
-    <a href="https://chrome-stats.com/d/com.owner.shate2Owner" target="_blank">Owner</a> |
+    <a href="https://chrome-stats.com/d/com.owner.shate2Owner" target="_blank">Owner Android</a> |
     <a href="https://apps.apple.com/bh/app/shate2-owner/id6520392479" target="_blank">Owner iOS</a>
   </td>
 </tr>
@@ -85,6 +89,9 @@
   </a>
   <a href="https://www.facebook.com/FoUuSsH158247" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201061696047" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://flutter-architect-pro--meedoofouad.replit.app/#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Website-FF69B4?style=for-the-badge"/>
