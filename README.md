@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br/>I'm <b>Mohamed Fouad (Fouush)</b>, Senior Flutter Developer from <b>Egypt 🇪🇬</b>.</p>
+<p>Welcome to my page! <br/>I'm <b>Mohamed Fouad (Fouush)</b>, Flutter Developer from <b>Egypt 🇪🇬</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -72,15 +72,10 @@
     <a href="https://apps.apple.com/bh/app/%D8%A7%D9%85%D8%B3%D8%A7%D9%83%D9%8A%D8%A9-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-2026/id6446371980" target="_blank">iOS</a>
   </td>
 </tr>
-<tr>
-  <td><b>Portfolio Website</b></td>
-  <td>Web</td>
-  <td><a href="https://flutter-architect-pro--meedoofouad.replit.app/#" target="_blank">View</a></td>
-</tr>
 </tbody>
 </table>
 
-<h3>📫 Connect With Me</h3>
+<h3>📫 Connect & Portfolio</h3>
 <p>
   <a href="https://github.com/mohamedfouad2000" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -94,8 +89,11 @@
   <a href="https://wa.me/201061696047" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+  <a href="https://flutter-architect-pro--meedoofouad.replit.app/#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Website-FF69B4?style=for-the-badge"/>
+  </a>
 </p>
 
 <p align="center">
-⚡ Senior Flutter Developer • Clean Architecture • Production Apps • Mobile & Web
+⚡ Flutter Developer • Clean Architecture • Production Apps • Mobile & Web
 </p>
